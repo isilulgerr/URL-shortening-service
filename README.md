@@ -1,6 +1,6 @@
 # 🚀 URL Shortening Service (Spring Boot & PostgreSQL)
 
-A robust, intermediate-level RESTful API built with Java and Spring Boot that helps shorten long URLs, tracks access statistics, and handles real-time HTTP redirects.
+RESTful API built with Java and Spring Boot that helps shorten long URLs, tracks access statistics, and handles real-time HTTP redirects.
 
 ---
 
